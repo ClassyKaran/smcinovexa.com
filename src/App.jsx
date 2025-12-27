@@ -20,7 +20,7 @@ const App = () => {
     <a className="navbar-brand fw-bold text-primary fs-3 d-flex align-items-center" href="#">
 {/* Logo */}
       <img 
-        src="public/WhatsApp Image 2025-12-27 at 12.51.58 PM.jpeg" 
+        src="./WhatsApp Image 2025-12-27 at 12.51.58 PM.jpeg" 
         alt="SMC Inovexa Logo"
         width="40"
         height="40"
@@ -81,7 +81,7 @@ const App = () => {
             </div>
             <div className="col-lg-6 mt-5 mt-lg-0 text-center">
               <img 
-                src="public\WhatsApp Image 2025-12-26 at 11.36.14 AM.jpeg" 
+                src="/WhatsApp Image 2025-12-26 at 11.36.14 AM.jpeg" 
                 alt="Tech Team" 
                 className="img-fluid rounded-4 shadow-lg border border-5 border-white"
               />
