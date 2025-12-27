@@ -96,7 +96,7 @@ const App = () => {
           <div className="row align-items-center">
             <div className="col-lg-6 mb-4 mb-lg-0">
               <img 
-                src="public/WhatsApp Image 2025-12-26 at 12.15.00 PM.jpeg" 
+                src="/WhatsApp Image 2025-12-26 at 12.15.00 PM.jpeg" 
                 className="img-fluid rounded-4 shadow" 
                 alt="About us" 
               />
@@ -241,31 +241,31 @@ const App = () => {
               { 
                 name: 'Chetan Shimpi', 
                 role: 'CEO & Founder', 
-                img: 'public/WhatsApp Image 2025-12-27 at 12.46.41 PM.jpeg', // Example image
+                img: '/WhatsApp Image 2025-12-27 at 12.46.41 PM.jpeg', // Example image
                 social: { twitter: '#', linkedin: '#' } 
               },
               { 
                 name: 'Shubham Sankpal', 
                 role: 'Director & Co-Founder', 
-                img: 'public/WhatsApp Image 2025-12-26 at 11.36.12 AM.jpeg', // Example image
+                img: '/WhatsApp Image 2025-12-26 at 11.36.12 AM.jpeg', // Example image
                 social: { twitter: '#', linkedin: '#' } 
               },
               { 
                 name: 'Karan Rajput', 
                 role: 'Manager', 
-                img: 'public/Screenshot 2025-12-27 214134.png',
+                img: '/Screenshot 2025-12-27 214134.png',
                 social: { twitter: '#', linkedin: '#' } 
               },
               { 
                 name: 'Arjun Rajput', 
                 role: 'Leader', 
-                img: 'public/WhatsApp Image 2025-12-27 at 11.33.10 AM.jpeg', // Example image
+                img: '/WhatsApp Image 2025-12-27 at 11.33.10 AM.jpeg', // Example image
                 social: { twitter: '#', linkedin: '#' } 
               },
               { 
                 name: 'Mantu Kumar', 
                 role: 'Leader', 
-                img: 'public/WhatsApp Image 2025-12-27 at 11.32.16 AM.jpeg', // Example image
+                img: '/WhatsApp Image 2025-12-27 at 11.32.16 AM.jpeg', // Example image
                 social: { twitter: '#', linkedin: '#' } 
               },
               
@@ -330,7 +330,7 @@ const App = () => {
             "Working with this team was a game-changer for our business. Their attention to detail and innovative solutions exceeded our expectations."
           </p>
           <div className="d-flex align-items-center mt-auto">
-            <img src="public/WhatsApp Image 2025-12-27 at 11.28.01 AM.jpeg" className="rounded-circle me-3" width="50" height="50" alt="Client" />
+            <img src="/WhatsApp Image 2025-12-27 at 11.28.01 AM.jpeg" className="rounded-circle me-3" width="50" height="50" alt="Client" />
             <div>
               <h6 className="fw-bold mb-0 text-dark">Tejas Sonawane</h6>
               <small className="text-muted">CEO, TechFlow</small>
@@ -349,7 +349,7 @@ const App = () => {
             "The most professional software partners we've had. They didn't just write code; they understood our business goals perfectly."
           </p>
           <div className="d-flex align-items-center mt-auto">
-            <img src="public/WhatsApp Image 2025-12-27 at 11.28.02 AM.jpeg" className="rounded-circle me-3" width="50" height="50" alt="Client" />
+            <img src="/WhatsApp Image 2025-12-27 at 11.28.02 AM.jpeg" className="rounded-circle me-3" width="50" height="50" alt="Client" />
             <div>
               <h6 className="fw-bold mb-0 text-dark">Rahul Kumar</h6>
               <small className="text-muted">Marketing Director, Globalize</small>
